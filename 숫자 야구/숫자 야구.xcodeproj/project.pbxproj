@@ -20,7 +20,6 @@
 
 /* Begin PBXFileReference section */
 		42C98EE92D8A5AF600DC34D2 /* 숫자 야구 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "숫자 야구"; sourceTree = BUILT_PRODUCTS_DIR; };
-		42DEDA172D8CF80A009DF2FC /* 숫자 야구.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "숫자 야구.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -54,13 +53,6 @@
 			isa = PBXGroup;
 			children = (
 				42C98EE92D8A5AF600DC34D2 /* 숫자 야구 */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		42DEDA182D8CF80A009DF2FC /* Products */ = {
-			isa = PBXGroup;
-			children = (
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -117,12 +109,6 @@
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 42C98EEA2D8A5AF600DC34D2 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 42DEDA182D8CF80A009DF2FC /* Products */;
-					ProjectRef = 42DEDA172D8CF80A009DF2FC /* 숫자 야구.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				42C98EE82D8A5AF600DC34D2 /* 숫자 야구 */,
